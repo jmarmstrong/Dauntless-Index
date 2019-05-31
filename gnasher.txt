@@ -1,0 +1,14 @@
+
+Name: Gnasher
+Type: Neutral
+Threat Level: 3
+Location: Iron Falls
+Recommended weapon type: Any
+Recommended armour type: Any
+Recommended power:
+
+Drops and how to obtain them:
+Gnasher Hide: Slay
+Ragetooth: Break Head
+Gnasher Shinplate: Break Leg
+Sharpened Slapper: Sever tail

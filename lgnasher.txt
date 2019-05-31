@@ -1,0 +1,13 @@
+
+Name: Lesser Gnasher
+Type: Neutral
+Threat Level: 1
+Location: Rook's Isle
+Recommended weapon type: Any
+Recommended armour type: Any
+Recommended power: 50
+Drops and how to obtain them:
+Gnasher Hide: Slay
+Ragetooth: Break Head
+Gnasher Shinplate: Break Leg
+Sharpened Slapper: Sever tail

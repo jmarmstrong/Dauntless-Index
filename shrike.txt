@@ -1,0 +1,13 @@
+
+Name: Shrike
+Type: Neutral
+Threat Level: 4
+Location:
+Recommended weapon type: Any
+Recommended armour type: Any
+Recommended power: 150
+
+Drops and how to obtain them:
+Shrike Feather: Break Head, Limbs or Tail
+
+
