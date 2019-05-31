@@ -21,7 +21,8 @@ while loop:
     2) Quillshot
     3) Shrike
     """)
-    neutral = input("Please enter the number of the behemoth") 
+    neutral = input("Please enter the number of the behemoth")
+    
     if neutral == "1":
         pp("""
 1) Lesser Gnasher
@@ -61,10 +62,9 @@ while loop:
                     loop = True
                 if yn == "N" or yn == "n":
                     exit()
-                
     if neutral == "2":
         q = open("quillshot.txt", "r")
-            if q.mode == "r":
+        if q.mode == "r":
                 contents = q.read()
                 print (contents)
                 yn = input("do you want to return to the beginning Y/N: ")
@@ -74,15 +74,21 @@ while loop:
                     exit()
                     
     if neutral == "3":
-        q = open("shrike.txt", "r")
+        while loop2:
+            loop2 = False
+            q = open("shrike.txt", "r")
             if q.mode == "r":
-                contents = q.read()
-                print (contents)
-                yn = input("do you want to return to the beginning Y/N: ")
-                if yn == "Y" or yn == "y":
-                    loop = True
-                if yn == "N" or yn == "n":
-                    exit()
+                    contents = q.read()
+                    print (contents)
+                    yn = input("do you want to return to the beginning Y/N: ")
+                    if yn == "Y" or yn == "y":
+                        loop = True
+                    else:
+                        loop2 = True
+                    if yn == "N" or yn == "n":
+                        exit()
+                    else:
+                        loop2 = True
                     
                     
     if variable == "Blaze" or variable ==  "blaze":
