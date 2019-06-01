@@ -6,7 +6,8 @@ Heroic Threat Level: 13
 Location: Iron Falls
 Recommended weapon type: Any
 Recommended armour type: Any
-Recommended power:
+Recommended power: 325
+Heroic Recommended power: 425
 
 
 Drops and how to obtain them:

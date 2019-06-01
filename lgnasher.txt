@@ -6,6 +6,7 @@ Location: Rook's Isle
 Recommended weapon type: Any
 Recommended armour type: Any
 Recommended power: 50
+
 Drops and how to obtain them:
 Gnasher Hide: Slay
 Ragetooth: Break Head

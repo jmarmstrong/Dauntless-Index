@@ -5,11 +5,10 @@ Threat Level: 5
 Location: The Monstrous Verge and The Yonder Keys.
 Recommended weapon type: Any
 Recommended armour type: Any
-Recommended power: 
+Recommended power: 200
 
 
 Drops and hot to obtain them:
-
 Quillshot Hide: Break Head or Limbs
 Quilshot Tusk: Break Tust
 jagged Tailspike: Tail 

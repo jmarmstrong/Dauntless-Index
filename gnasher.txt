@@ -5,7 +5,7 @@ Threat Level: 3
 Location: Iron Falls
 Recommended weapon type: Any
 Recommended armour type: Any
-Recommended power:
+Recommended power: 100
 
 Drops and how to obtain them:
 Gnasher Hide: Slay
